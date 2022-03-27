@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestAkariViewer
+comment0.text=\r\n\ TestAkariViewer\ tests\ the\ class\ AkariViewer.\r\n\r\n\ @author\ \ Lyndon\ While\r\n\ @version\ 2021\ v1\r\n
+comment1.params=
+comment1.target=void\ testAkariViewer()
+comment2.params=
+comment2.target=void\ testDisplayAndMouseMethods()
+comment3.params=
+comment3.target=void\ testleftClick()
+numComments=4

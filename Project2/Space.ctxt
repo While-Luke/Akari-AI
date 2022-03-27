@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Space\ enumerates\ the\ possible\ states\ of\ a\ square\ on\ an\ Akari\ board.\ \r\n\ enum\ classes\ are\ discussed\ in\ Lecture\ 14,\ Week\ 10.\ \r\n\r\n\ @author\ Lyndon\ While\r\n\ @version\ 2021\r\n
+comment1.params=x
+comment1.target=boolean\ isMutable(Space)
+comment1.text=\r\n\ Returns\ true\ iff\ x\ represents\ a\ space\ on\ the\ board\ \r\n\ that\ can\ be\ changed\ during\ play.\ \r\n
+numComments=2
